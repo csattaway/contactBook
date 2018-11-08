@@ -1,0 +1,8 @@
+C:\Users\Chris\Desktop\testProjects\contactBook\contactBook\bin\Debug\contactBook.exe.config
+C:\Users\Chris\Desktop\testProjects\contactBook\contactBook\bin\Debug\contactBook.exe
+C:\Users\Chris\Desktop\testProjects\contactBook\contactBook\bin\Debug\contactBook.pdb
+C:\Users\Chris\Desktop\testProjects\contactBook\contactBook\obj\Debug\contactBook.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\testProjects\contactBook\contactBook\obj\Debug\contactBook.Properties.Resources.resources
+C:\Users\Chris\Desktop\testProjects\contactBook\contactBook\obj\Debug\contactBook.csproj.GenerateResource.Cache
+C:\Users\Chris\Desktop\testProjects\contactBook\contactBook\obj\Debug\contactBook.exe
+C:\Users\Chris\Desktop\testProjects\contactBook\contactBook\obj\Debug\contactBook.pdb
